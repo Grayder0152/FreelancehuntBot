@@ -38,6 +38,8 @@
       <change afterPath="$PROJECT_DIR$/../../Django/llibrary/config/wsgi.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Django/llibrary/manage.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prockfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/fh_parser.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Програми/asyncio/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Програми/test.js" afterDir="false" />
@@ -143,6 +145,10 @@
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="223" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1536.824@0.40.1536.824" timestamp="1623422012061" />
+    <state x="530" y="254" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623423866874">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="530" y="254" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1536.824@0.40.1536.824" timestamp="1623423866874" />
     <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1623422013359">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
@@ -159,5 +165,9 @@
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state width="1515" height="210" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1623422013359" />
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1623424084178">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup/0.40.1536.824@0.40.1536.824" timestamp="1623424084178" />
   </component>
 </project>

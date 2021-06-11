@@ -1,8 +1,13 @@
 import fh_parser
 from time import sleep
+import os
 import telebot
 
-bot = telebot.TeleBot("1024618614:AAFeRLIWblOLZRhtQLT06L5G2biUV09yWwQ")
+TOKEN = os.environ.get(
+    "TOKEN",
+    default="your_token"
+)
+bot = telebot.TeleBot(TOKEN)
 
 
 @bot.message_handler(commands=['start'])
@@ -25,4 +30,5 @@ def start_mes(mes):
         sleep(10)
 
 
-bot.polling()
+if __name__ == '__main__':
+    bot.polling()
